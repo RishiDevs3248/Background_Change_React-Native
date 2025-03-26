@@ -97,7 +97,6 @@ const styles = StyleSheet.create({
     borderLeftWidth:25,
     borderRightColor :'transparent',
     borderRightWidth:25,
-    // borderBottomColor : "#fff",
     borderBottomWidth:50,
   },
   Triangle2:{
@@ -110,7 +109,6 @@ const styles = StyleSheet.create({
     borderLeftWidth:25,
     borderRightColor :'transparent',
     borderRightWidth:25,
-    // borderBottomColor : "#fff",
     borderBottomWidth:50,
   },
   Square:{
